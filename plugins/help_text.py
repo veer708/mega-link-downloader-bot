@@ -24,7 +24,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 REPLY_MARKUP = InlineKeyboardMarkup(
     [
-        [InlineKeyboardButton("🚀 Update Channel! 😍", url="https://t.me/SLBotsofficial")],
+        [InlineKeyboardButton("🚀 Update Channel! 😍", url="https://t.me/+00WJNYJVl2ExNjZl")],
     ]
 )
 
