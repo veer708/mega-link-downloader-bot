@@ -18,7 +18,7 @@ Just enter your mega.nz link and I will return the file/video to you!😇
 
 Press /help for more details!
 
-✨ <b>A Project By @SLBotsOfficial</b>"""
+✨ <b>A Project By @Lucky_y2</b>"""
     
     DOWNLOAD_START = "𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗶𝗻𝗴 𝘁𝗼 𝗠𝘆 𝗦𝗲𝗿𝘃𝗲𝗿📥"
     UPLOAD_START = "𝗨𝗽𝗹𝗼𝗮𝗱𝗶𝗻𝗴 𝗧𝗼 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗡𝗼𝘄  📤"
@@ -55,4 +55,4 @@ Ex:- <a href="https://telegra.ph/file/2eb5419cf242504cca440.jpg">Send Like This!
 
 <b>Note</b> :- You can download links which are bigger than 2GB from me too! Due to telegram API limits I can't upload files which are bigger than 2GB so I will split such files and upload them to you!
 
-✨ <b>A Project By @SLBotsOfficial</b>"""
+✨ <b>A Project By @Lucky_y2</b>"""
